@@ -21,6 +21,6 @@ Grid lines or a panel can be added, if needed:
 <img src="https://github.com/ebommes/plots/raw/master/img/ggtheme_panel.png" width="500">
 
 
-# Plotted Table for Data Exploration wie sparklines (sparktable.R)
+# Plotted Table for Data Exploration with sparklines (sparktable.R)
 
 <img src="https://github.com/ebommes/plots/raw/master/img/sparktable.png" width="500">
